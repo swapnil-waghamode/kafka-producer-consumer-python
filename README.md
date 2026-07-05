@@ -57,7 +57,6 @@ kafka-producer-consumer-python/
 ├── producer.py
 ├── consumer.py
 ├── docker-compose.yaml
-├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
